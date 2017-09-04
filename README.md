@@ -1,0 +1,2 @@
+# blog
+issues as blog
